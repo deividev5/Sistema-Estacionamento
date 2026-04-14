@@ -59,6 +59,3 @@ uConfig.pas / .dfm       → Configurações de preços e vagas
   - Até 45 min → 3 frações
   - Acima de 45 min → cobra hora cheia
 
-## Licença
-
-Este projeto é de uso livre para fins educacionais e comerciais.
